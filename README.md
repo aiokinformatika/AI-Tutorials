@@ -9,6 +9,7 @@ and supporting infrastructure.
 | Tutorial | Description |
 |----------|-------------|
 | [Debian 13 & Docker Development Environment](docker-test/) | Set up and verify a development environment using Debian 13, Docker, Docker Compose, and PyCharm. |
+| [Local RAG System](rag-project/) | Build a local RAG application using Python, Ollama, Mistral, Streamlit and Chroma. |
 
 ## Repository Structure
 
