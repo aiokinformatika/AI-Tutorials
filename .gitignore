@@ -28,3 +28,17 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# RAG project - local runtime data
+rag-project/.venv/
+rag-project/data/uploads/
+rag-project/data/chroma/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment and secrets
+rag-project/.env
+rag-project/.env.*
